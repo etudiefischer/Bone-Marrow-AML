@@ -1,0 +1,32 @@
+# Data and generated outputs
+/data/
+/results/
+/models/
+
+# Virtual environments
+.venv/
+.venv*/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Archives and large scientific outputs
+*.zip
+*.h5
+*.h5ad
+*.tif
+*.tiff
